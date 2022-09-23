@@ -1,0 +1,14 @@
+{
+  "name": "fuhui",
+  "version": "1.0.2",
+  "description": "fuhui的自定义UI",
+  "main": "fuhui.common.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "FInputTag", "FImagePreview"
+  ],
+  "author": "fuhui",
+  "license": "ISC"
+}
