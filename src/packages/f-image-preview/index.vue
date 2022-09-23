@@ -15,7 +15,7 @@
     props: {
       src: {
         type: String,
-        default: require("../static/defaultImg.png"),
+        default: require("@/assets/defaultImg.png"),
       },
       width: {
         type: String,

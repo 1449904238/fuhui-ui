@@ -2,7 +2,7 @@
   <div class="f-input-tag">
     <div class="tag" v-for="(item, index) in tagList" :key="index" :name="tagsType === 2 ? item[format.label] : item">
       <span class="tag-txt">{{ tagsType === 2 ? item[format.label] : item }}</span>
-      <img class="close" :src="require('../static/close_fill.svg')" @click="handleClose(item, index)" />
+      <img class="close" :src="require('@/assets/close_fill.png')" @click="handleClose(item, index)" />
     </div>
     <input class="input" ref="input" v-if="isEdit" v-model="inputValue" @blur="onBlur" />
     <button class="button" @click="handleAdd">{{
