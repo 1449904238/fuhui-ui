@@ -43,7 +43,6 @@
   };
 </script>
 <style scoped lang="less">
-  // import '@/packages/css/index.less'
   .f-image-preview {
     .imgbox {
       display: flex;

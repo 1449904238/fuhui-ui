@@ -1,6 +1,7 @@
 import Vue from 'vue'
 import App from './App.vue'
 import fuhui from 'fuhui'
+import 'fuhui/fuhui.css'
 
 Vue.config.productionTip = false
 

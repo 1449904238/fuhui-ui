@@ -1,14 +1,19 @@
 {
   "name": "fuhui",
-  "version": "1.0.2",
-  "description": "fuhui的自定义UI",
+  "version": "1.0.3",
+  "description": "fuhui的ui",
   "main": "fuhui.common.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [
-    "FInputTag", "FImagePreview"
-  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1449904238/fuhui-ui.git"
+  },
   "author": "fuhui",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/1449904238/fuhui-ui/issues"
+  },
+  "homepage": "https://github.com/1449904238/fuhui-ui#readme"
 }

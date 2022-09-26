@@ -7,13 +7,13 @@
 
 <script>
   import FImagePreview from '@/packages/f-image-preview'
-  import FInputTag from '@/packages/f-input-tag'
+  // import FInputTag from '@/packages/f-input-tag'
 
   export default {
     name: 'App',
     components: {
       FImagePreview,
-      FInputTag
+      // FInputTag
     },
     data() {
       return {
